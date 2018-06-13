@@ -12,8 +12,8 @@ Open Data Kit (ODK) is a collection of free and open-source software tools that 
 * ODK developer Slack archive: [https://opendatakit.slackarchive.io](https://opendatakit.slackarchive.io) 
 
 ## Current ODK skunkworks projects
-### Supervisor app - Device to Device Transfer Android Application 
-Lead: Lakshya Gupta ([@lakshyagupta21](https://github.com/lakshyagupta21)), GSoC 2018 intern
+* [ODK Share](https://github.com/opendatakit/share) - Device to Device transfer of ODK Collect forms and data
+   * Lakshya Gupta ([@lakshyagupta21](https://github.com/lakshyagupta21)), GSoC 2018 intern
 
 ## Adding new skunkworks projects
 Anyone in the ODK community is welcome to propose a skunkworks project! Once developers for the project have been identified, the project can be brought up for discussion at the regular [Technical Steering Committee](https://github.com/opendatakit/governance/tree/master/TSC1) meeting. If the project fits into ODK's mission, the new skunkworks project will get a GitHub repository in the [`opendatakit` organization](https://github.com/opendatakit) and will be listed in this file.
