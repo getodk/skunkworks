@@ -14,7 +14,7 @@ Open Data Kit (ODK) is a collection of free and open-source software tools that 
 ## Current ODK skunkworks projects
 * [skunkworks-crow](https://github.com/opendatakit/skunkworks-crow) - Device to Device transfer of ODK Collect forms and data
 * [skunkworks-parrot](https://github.com/opendatakit/skunkworks-parrot) - ODK2 Desktop app for supervisors to create and send notifications to field workers
-* [skunkworks-crow](https://github.com/opendatakit/skunkworks-crow) - ODK2 Android app for field workers that receives notifications sent by their supervisors
+* [skunkworks-bat](https://github.com/opendatakit/skunkworks-bat) - ODK2 Android app for field workers that receives notifications sent by their supervisors
 
 ## Adding new skunkworks projects
 Anyone in the ODK community is welcome to propose a skunkworks project! Once developers for the project have been identified, the project can be brought up for discussion at the regular [Technical Steering Committee](https://github.com/opendatakit/governance/tree/master/TSC1) meeting. If the project fits into ODK's mission, the new skunkworks project will get a GitHub repository in the [`opendatakit` organization](https://github.com/opendatakit) and will be listed in this file.
