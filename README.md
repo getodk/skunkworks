@@ -1,5 +1,9 @@
 # ODK Skunkworks
+This project is not actively maintained. It is archived here for reference purposes.
 
+If you wish to maintain it, please contact the ODK team at https://getodk.org.
+
+## Overview
 [![Code of Conduct](https://img.shields.io/badge/%E2%9D%A4-code%20of%20conduct-blue.svg?style=flat)](https://github.com/opendatakit/governance/blob/master/CODE-OF-CONDUCT.md)
 
 Open Data Kit (ODK) is a collection of free and open-source software tools that help people capture mission-critical data in real-time through mobile technology. ODK Skunkworks is a listing of projects that are experimental and not yet released for broad deployment. Learn more about skunkworks projects [on Wikipedia](https://en.wikipedia.org/wiki/Skunkworks_project).
